@@ -1,3 +1,3 @@
 # Google Colab Tweaks
 
-This repository contains a set of tweaks and tip for using Jupyter Notebook on Google Colab.
+This repository contains a set of tweaks and tips for using Jupyter Notebook on Google Colab.
